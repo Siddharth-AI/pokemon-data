@@ -1,11 +1,10 @@
 import "./App.css";
+import { Pokemon } from "./Pokemon";
 
 function App() {
   return (
     <>
-      <div>
-        <h1>pokemon project start</h1>
-      </div>
+      <Pokemon />
     </>
   );
 }
